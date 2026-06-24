@@ -1,0 +1,22 @@
+{
+  "name": "legal-commands",
+  "version": "0.1.0",
+  "bundle": "legal-compliance",
+  "description": "Comandos especializados para Legal & Compliance en Spec-Kit",
+  "commands": [
+    {
+      "name": "legal.risk-assessment",
+      "description": "Realiza un análisis completo de riesgos legales para una spec",
+      "template": "bundles/legal-compliance/templates/risk-assessment.md"
+    },
+    {
+      "name": "legal.compliance-checklist",
+      "description": "Genera checklist de compliance según estadio de la empresa",
+      "parameters": ["stage"]
+    },
+    {
+      "name": "legal.privacy-review",
+      "description": "Revisión detallada de aspectos de privacidad"
+    }
+  ]
+}

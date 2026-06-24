@@ -1,0 +1,20 @@
+{
+  "bundle": "cfo-financial",
+  "version": "0.1.0",
+  "commands": [
+    {
+      "name": "cfo.financial-model",
+      "description": "Genera modelo financiero completo para feature o proyecto",
+      "template": "financial-model"
+    },
+    {
+      "name": "cfo.cost-structure",
+      "description": "Análisis detallado de estructura de costos"
+    },
+    {
+      "name": "cfo.ROI-analysis",
+      "description": "Cálculo de ROI y análisis de sensibilidad"
+    }
+  ],
+  "integrations": ["product-manager", "cto-architecture", "stage-adapter"]
+}

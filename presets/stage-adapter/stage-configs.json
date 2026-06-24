@@ -1,0 +1,26 @@
+{
+  "startup-mvp": {
+    "intensity": "light",
+    "focus": ["validation", "speed", "lean"],
+    "legal": "basic",
+    "cto": "simple-architecture",
+    "cfo": "basic-unit-economics",
+    "marketing": "problem-validation"
+  },
+  "growth-scale": {
+    "intensity": "medium",
+    "focus": ["acquisition", "retention", "efficiency"],
+    "legal": "standard",
+    "cto": "scalable-architecture",
+    "cfo": "detailed-financial-model",
+    "marketing": "growth-experiments"
+  },
+  "enterprise-corp": {
+    "intensity": "heavy",
+    "focus": ["compliance", "scalability", "governance"],
+    "legal": "full-compliance",
+    "cto": "enterprise-grade",
+    "cfo": "advanced-budgeting",
+    "marketing": "enterprise-gtm"
+  }
+}

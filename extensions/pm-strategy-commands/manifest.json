@@ -1,0 +1,14 @@
+{
+  "name": "pm-strategy-commands",
+  "version": "0.1.0",
+  "description": "Comandos para Project Management y Strategy en Spec-Kit",
+  "commands": [
+    "/pm.sprint-plan",
+    "/pm.risk-assessment",
+    "/strategy.wardley-map",
+    "/pm.stakeholder-analysis",
+    "/pm.retrospective",
+    "/pm.prioritization"
+  ],
+  "integrations": ["jira", "linear", "notion"]
+}

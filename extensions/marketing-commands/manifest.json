@@ -1,0 +1,22 @@
+{
+  "bundle": "marketing-growth",
+  "commands": [
+    {
+      "name": "marketing.gtm-strategy",
+      "description": "Genera una estrategia Go-to-Market completa y detallada adaptada al estadio de la compañía. Incluye market analysis, positioning, pricing, channels, experiments, metrics, risks y timeline. Integra con CFO, Legal y Stage Adapter.",
+      "template": "templates/gtm-template.md"
+    },
+    {
+      "name": "marketing.positioning",
+      "description": "Define positioning y messaging para producto/feature"
+    },
+    {
+      "name": "marketing.growth-experiments",
+      "description": "Diseña y prioriza experiments de growth"
+    },
+    {
+      "name": "marketing.metrics-framework",
+      "description": "Crea framework de métricas (North Star + OKRs)"
+    }
+  ]
+}

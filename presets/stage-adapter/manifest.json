@@ -1,0 +1,7 @@
+{
+  "name": "stage-adapter",
+  "version": "0.1.0",
+  "description": "Adapta automáticamente bundles según el estadio de la compañía",
+  "stages": ["startup-mvp", "growth-scale", "enterprise-corp"],
+  "activates": ["cto-architecture", "cfo-financial", "legal-compliance", "marketing-growth", "product-manager"]
+}
